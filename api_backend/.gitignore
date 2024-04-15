@@ -1,0 +1,16 @@
+__pycache__
+
+configs/secret.sh
+configs/secretTest.sh
+configs/secretDbCreation.sh
+
+configs/secretIpfsTest.sh
+configs/secretIpfs.sh
+
+configs/.secret_accounts
+
+app/db/secret.py
+app/.env
+
+.coverage
+coverage.xml
