@@ -1,0 +1,78 @@
+.totContentUploadFile {
+  border: solid !important;
+  border-width: 1px !important;
+  padding: 10px 15px !important;
+  width: 50% !important;
+  height: 450px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 10% !important;
+  background-color: whitesmoke;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+  margin-bottom: 5%;
+}
+.contentUploadFile {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  flex-grow: 4;
+}
+.buttonsUpload {
+  display: flex;
+  flex-direction: column;
+  width: 100% !important;
+  justify-content: center;
+  margin-bottom: 15%;
+}
+.upload {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10% !important;
+  width: 70%;
+}
+.fileName {
+  overflow-y: scroll;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+
+  width: 100% !important;
+  background-color: white;
+  max-height: 350px;
+}
+.buttonConfirmAndCancel {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.iconBrowse {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 100px;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  background: rgb(55, 214, 235);
+}
+
+.textAndIconToUpload {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8%;
+  padding: 10px;
+}
+.csvAndImages {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10%;
+}

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Gilroy-ExtraBold';
+  src: local('Gilroy-ExtraBold'), url(../public/fonts/Gilroy-ExtraBold.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: local('Inter-Regular'), url(../public/fonts/Inter-Regular.otf) format('truetype');
+  }
